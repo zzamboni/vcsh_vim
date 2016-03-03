@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/usr/local/etc/tor'
+let g:netrw_dirhist_2='/Users/diego/Work/Swisscom/orchard/cicd/orchard-server-rpm/.git'
+let g:netrw_dirhist_3='/Users/diego/Work/Swisscom/gitlab/cicd/riemann-dash-rpm/SOURCES'
+let g:netrw_dirhist_4='/Users/diego/Work/Swisscom/gitlab/cicd/orchard-server-rpm/SPECS'
+let g:netrw_dirhist_5='/Users/taazadi1/.gem'
+let g:netrw_dirhist_6='/Users/taazadi1/bin'
+let g:netrw_dirhist_7='/Users/taazadi1/.emacs.d.bak'
