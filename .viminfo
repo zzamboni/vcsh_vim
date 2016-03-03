@@ -17,8 +17,8 @@
 $prd8ch-prd
 
 # Command Line History (newest to oldest):
-:q
 :wq
+:q
 :s/prd8ch-int/prd8ch-prd/g
 
 # Search String History (newest to oldest):
@@ -53,18 +53,20 @@ $prd8ch-prd
 	 tmorchard-pub-prd8ch-prd-1.olt.mgmtsccloud.net grafana.tmorchard-pub-prd8ch-prd-1.olt.mgmtsccloud.net riemann-dash.tmorchard-pub-prd8ch-prd-1.olt.mgmtsccloud.net influxdb.tmorchard-pub-prd8ch-prd-1.olt.mgmtsccloud.net
 
 # File marks:
-'0  2  0  /private/etc/pf.conf
-'1  25  0  /private/etc/pf.conf
-'2  29  0  /private/etc/pf.conf
-'3  29  0  /private/etc/pf.conf
-'4  8  0  /private/etc/hosts
-'5  7  236  /private/etc/hosts
-'6  11  0  /private/etc/hosts
-'7  44  75  /Library/Python/2.7/site-packages/pingdomlib/check.py
-'8  10  29  /private/etc/hosts
-'9  11  18  /private/etc/shells
+'0  1  13  ~/.config/vcsh/repo.d/vim.git/COMMIT_EDITMSG
+'1  1  14  ~/.config/vcsh/repo.d/git.git/COMMIT_EDITMSG
+'2  2  0  /private/etc/pf.conf
+'3  25  0  /private/etc/pf.conf
+'4  29  0  /private/etc/pf.conf
+'5  29  0  /private/etc/pf.conf
+'6  8  0  /private/etc/hosts
+'7  7  236  /private/etc/hosts
+'8  11  0  /private/etc/hosts
+'9  44  75  /Library/Python/2.7/site-packages/pingdomlib/check.py
 
 # Jumplist (newest first):
+-'  1  13  ~/.config/vcsh/repo.d/vim.git/COMMIT_EDITMSG
+-'  1  14  ~/.config/vcsh/repo.d/git.git/COMMIT_EDITMSG
 -'  2  0  /private/etc/pf.conf
 -'  1  0  /private/etc/pf.conf
 -'  25  0  /private/etc/pf.conf
@@ -161,9 +163,20 @@ $prd8ch-prd
 -'  11  18  /private/etc/shells
 -'  1  0  /private/etc/shells
 -'  11  18  /private/etc/shells
--'  1  0  /private/etc/shells
 
 # History of marks within files (newest to oldest):
+
+> ~/.config/vcsh/repo.d/vim.git/COMMIT_EDITMSG
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
+
+> ~/.config/vcsh/repo.d/git.git/COMMIT_EDITMSG
+	"	1	14
+	^	1	15
+	.	1	14
+	+	1	14
 
 > /private/etc/pf.conf
 	"	2	0
