@@ -1,6 +1,7 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_cnt =5
 let g:netrw_dirhist_1='/Users/taazadi1/.config/fish/conf.d'
 let g:netrw_dirhist_2='/Users/taazadi1/.config/omf/pkg/cdb/functions'
 let g:netrw_dirhist_3='/Users/taazadi1/.hammerspoon/Spoons/TestSpoon.spoon'
 let g:netrw_dirhist_4='/usr/local/Cellar/dblatex/0.3.4/share/dblatex/latex/misc'
+let g:netrw_dirhist_5='/Users/taazadi1/.config/vcsh/repo.d/elvish.git'
